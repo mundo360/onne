@@ -3,21 +3,21 @@
 ## Action
 
 ### URL
-LinkBehaviour_3D66C40E_1E67_1C1E_41B6_75C9DD9E81C5.source = https://facebook.com/onneodontologia#
 LinkBehaviour_3D66340E_1E67_1C1E_4198_5BF311213D0D.source = https://facebook.com/onneodontologia#
-LinkBehaviour_3967F705_1E61_3C0D_41A2_3A70CAAB893F.source = https://onneodontologia.com
+LinkBehaviour_3D66C40E_1E67_1C1E_41B6_75C9DD9E81C5.source = https://facebook.com/onneodontologia#
 LinkBehaviour_3A09AEFC_1E61_0C03_41B8_1305425D1B08.source = https://onneodontologia.com
-LinkBehaviour_3AC560FF_1E66_F5FE_41BB_B74B77DE81B8.source = https://wa.link/wv40bt
+LinkBehaviour_3967F705_1E61_3C0D_41A2_3A70CAAB893F.source = https://onneodontologia.com
 LinkBehaviour_5F952091_1E23_3402_4167_8558F8C87330.source = https://wa.link/wv40bt
+LinkBehaviour_3AC560FF_1E66_F5FE_41BB_B74B77DE81B8.source = https://wa.link/wv40bt
 LinkBehaviour_382B00F1_1E61_3402_41BD_83D6A516E4FB.source = https://www.facebook.com/onneodontologia#
 WebFrame_257C23AC_2A82_B596_41C1_57002CDCE81C.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.3719648736596!2d-48.02131042601825!3d-15.837035784809347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a33aa19491e89%3A0x801cb72d447b482f!2sOnne%20Cl%C3%ADnica%20de%20Odontologia!5e0!3m2!1spt-BR!2sbr!4v1739968208097!5m2!1spt-BR!2sbr
 WebFrame_38C3000A_2FE4_1851_4182_03B1BF1F56A8.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.3719648736596!2d-48.02131042601825!3d-15.837035784809347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a33aa19491e89%3A0x801cb72d447b482f!2sOnne%20Cl%C3%ADnica%20de%20Odontologia!5e0!3m2!1spt-BR!2sbr!4v1739968403726!5m2!1spt-BR!2sbr
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.3719648736596!2d-48.02131042601825!3d-15.837035784809347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a33aa19491e89%3A0x801cb72d447b482f!2sOnne%20Cl%C3%ADnica%20de%20Odontologia!5e0!3m2!1spt-BR!2sbr!4v1739968403726!5m2!1spt-BR!2sbr
-LinkBehaviour_3A085EFC_1E61_0C03_41A9_033DC89385F5.source = https://www.instagram.com/fight_guara/
 LinkBehaviour_3A380D89_2FA4_6853_41BC_775E706B6646.source = https://www.instagram.com/fight_guara/
+LinkBehaviour_3A085EFC_1E61_0C03_41A9_033DC89385F5.source = https://www.instagram.com/fight_guara/
 LinkBehaviour_50399130_1E2F_1403_41A7_C720CC7E9AFF.source = https://www.instagram.com/fight_guara/
-LinkBehaviour_5039A130_1E2F_1403_41A0_51C65DFB95B3.source = https://www.instagram.com/onneodontologia/
 LinkBehaviour_3A381D89_2FA4_6853_41B6_F899C15D19DF.source = https://www.instagram.com/onneodontologia/
+LinkBehaviour_5039A130_1E2F_1403_41A0_51C65DFB95B3.source = https://www.instagram.com/onneodontologia/
 
 ## Media
 
@@ -27,15 +27,15 @@ audiores_5468E51D_1E61_1C3D_41AB_A99D846083AF.mp3Url = media/audio_59ED8EB1_1E63
 ### Audio Subtitles
 
 ### Image
-imlevel_46176037_1E21_740D_41B1_14B669E8FBEF.url = media/zoomImage_27BB2C58_1EE3_0C03_418C_0DAACD5A3E10_pt_0_0.jpg
-imlevel_46170039_1E21_7405_4197_7804B0D658E0.url = media/zoomImage_27BB2C58_1EE3_0C03_418C_0DAACD5A3E10_pt_0_1.jpg
-imlevel_4617103B_1E21_7405_4190_F58E02E4A89D.url = media/zoomImage_27BB2C58_1EE3_0C03_418C_0DAACD5A3E10_pt_0_2.jpg
-imlevel_46199079_1E21_7402_41B5_C3A608833CE4.url = media/zoomImage_5F0F7A83_1E21_1405_41B8_500AEEDA0FFD_pt_0_0.jpg
-imlevel_4619B07B_1E21_7406_41B6_F782CC5E2056.url = media/zoomImage_5F0F7A83_1E21_1405_41B8_500AEEDA0FFD_pt_0_1.jpg
-imlevel_4619607D_1E21_7402_4197_03AC180D0C6F.url = media/zoomImage_5F0F7A83_1E21_1405_41B8_500AEEDA0FFD_pt_0_2.jpg
-imlevel_46196058_1E21_7402_41A7_C067149701BD.url = media/zoomImage_5F7311C5_1E27_340D_41B5_A35CDC0B38AE_pt_0_0.jpg
-imlevel_4619705A_1E21_7406_4194_08631B34D8F5.url = media/zoomImage_5F7311C5_1E27_340D_41B5_A35CDC0B38AE_pt_0_1.jpg
-imlevel_4619005B_1E21_7406_41B2_3FDA0F6000BB.url = media/zoomImage_5F7311C5_1E27_340D_41B5_A35CDC0B38AE_pt_0_2.jpg
+imlevel_54526366_5951_A408_41C3_6535C02AE355.url = media/zoomImage_27BB2C58_1EE3_0C03_418C_0DAACD5A3E10_pt_0_0.jpg
+imlevel_54529366_5951_A408_4189_2B5B6B43D2BA.url = media/zoomImage_27BB2C58_1EE3_0C03_418C_0DAACD5A3E10_pt_0_1.jpg
+imlevel_5452B366_5951_A408_41BA_E9AD13EB57E1.url = media/zoomImage_27BB2C58_1EE3_0C03_418C_0DAACD5A3E10_pt_0_2.jpg
+imlevel_55AC01F8_5951_A7F8_41C9_CAD5EC6DFDEA.url = media/zoomImage_5F0F7A83_1E21_1405_41B8_500AEEDA0FFD_pt_0_0.jpg
+imlevel_55AC31F8_5951_A7F8_41A3_18E1DE9D4A7D.url = media/zoomImage_5F0F7A83_1E21_1405_41B8_500AEEDA0FFD_pt_0_1.jpg
+imlevel_55AC51F8_5951_A7F8_41B2_B2FA858C39CE.url = media/zoomImage_5F0F7A83_1E21_1405_41B8_500AEEDA0FFD_pt_0_2.jpg
+imlevel_55A8F0F2_5951_A408_41D0_89241704E93B.url = media/zoomImage_5F7311C5_1E27_340D_41B5_A35CDC0B38AE_pt_0_0.jpg
+imlevel_55A8E0F3_5951_A408_41D4_73B760CE111B.url = media/zoomImage_5F7311C5_1E27_340D_41B5_A35CDC0B38AE_pt_0_1.jpg
+imlevel_55AF00F3_5951_A408_41AB_31059F63F75F.url = media/zoomImage_5F7311C5_1E27_340D_41B5_A35CDC0B38AE_pt_0_2.jpg
 
 ### Popup Image
 
@@ -49,8 +49,7 @@ panorama_3704F016_1E26_F40E_41B7_055CBFE19666.label = Consultório 03
 panorama_3702F0C1_1E21_1402_41B8_3A7AB5F014E6.label = Controle Raio-X
 panorama_37052E68_1E27_0C02_4184_CC28FBFC7254.label = Fachada
 panorama_3702DADC_1E21_3402_4183_6842CD805EAE.label = Raio-X
-panorama_33ED7568_1E21_1C03_41BB_AA139CED5B9B.label = Recepção
-panorama_37038333_1E21_1405_4197_ED4B43DC33FA.label = Recepção -acesso consultorios
+panorama_48D605FF_5869_F3D5_41D2_2D4C5FD96C2B.label = Recepção
 panorama_37029D71_1E21_0C05_41B7_B1376FA58CD1.label = Recepção Consultório 01
 panorama_3702975D_1E21_1C02_41B3_ACFCBFCD7400.label = Recepção Consultório 02
 panorama_37001589_1E21_3C02_41BC_7F9F54408C94.label = Recepção01
@@ -118,10 +117,10 @@ Label_39647705_1E61_3C0D_4198_59B03DB3BD09.text = onneodontologia.com
 Label_3A09CEFC_1E61_0C03_41B9_F63E5DC55E6E.text = onneodontologia.com
 
 ### Multiline Text
-HTMLText_257C03AC_2A82_B596_41C3_4A08E23E5B11.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.6562499999999996vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.66vh;font-family:'Bebas Neue Bold';"><B>Localização</B></SPAN></SPAN></DIV></div>
+HTMLText_257C03AC_2A82_B596_41C3_4A08E23E5B11.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.65625vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.66vh;font-family:'Bebas Neue Bold';"><B>Localização</B></SPAN></SPAN></DIV></div>
 HTMLText_B0957F7E_9216_D8E2_41B0_26633CDFD7E9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:18.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:18.5px;"><B>CAVIS ALÉM DO CAVIS</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:11px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:13px;">A influência do CAVIS vai muito além das paredes dessa sala, o CAVIS está vivo aonde quer que esteja presente o corpo discente dos cursos de Artes Visuais e Teoria Crítica e História da Arte. Desde a recepção dos calouros no teatro de arena, até a delegação da UNB que participou do Enearte que aconteceu em Natal em 2011, confira aqui alguns momentos onde o CAVIS foi além do CAVIS!</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 HTMLText_B0CFD313_9216_6822_41E0_F40AD5C0AB27.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:18.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:18.5px;"><B>PAREDE DOS CALOUROS</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:11px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:13px;">Desde quando o CAVIS ocupava uma sala no famigerado corredor da morte, começou a tradição de pintar todo semestre uma das paredes do CA para ser decorada exclusivamente pelos calouros. Aqui você pode conferir algumas das caras que essa tradição já teve.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-HTMLText_38C3200A_2FE4_1851_41C5_285EE8EE0810.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,0.6);text-align:left;font-size:3.91vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.91vh;font-family:'Oswald';"><B>LOCAlIZAÇÃO ONNE ODONTOLOGIA</B></SPAN></SPAN></DIV></div>
+HTMLText_38C3200A_2FE4_1851_41C5_285EE8EE0810.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,0.6);text-align:left;font-size:3.9100000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.91vh;font-family:'Oswald';"><B>LOCAlIZAÇÃO ONNE ODONTOLOGIA</B></SPAN></SPAN></DIV></div>
 
 ## Tour
 
